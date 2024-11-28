@@ -10,3 +10,5 @@ FILES:
     - gpt_2.ipynb -> this is the notebook detailing the generative model GPT-2 both baseline and fine-tuning versions
     - llama.ipynb -> this is the notebook detailing the generative model LLAMA both baseline and fine-tuning versions
     - openai.ipynb -> this notebook is all the pay-for version of OpenAI's LLMs. I fine-tuned one that costed roughly $27
+    - evaluation.ipynb -> this is the evaluation file to determine the success of a model
+    - ensemble.ipynb -> this is the ensemble model file to combine BERT and GPT-3.5 Turbo.
