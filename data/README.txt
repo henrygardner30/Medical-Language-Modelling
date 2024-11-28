@@ -1,0 +1,1 @@
+This folder contains all the data that was created in the notebooks/setup.ipynb file. I additionally added it here for ease of viewing!
